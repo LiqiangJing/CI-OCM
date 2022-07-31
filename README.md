@@ -6,7 +6,7 @@ This repo holds codes of the paper: Debiased Outfit Compatibility Modeling with 
 
 | Backbone | AUC on IID | AUC on OOD | Pretrained model                                             |
 | -------- | ---------- | ---------- | ------------------------------------------------------------ |
-| OCM-CF   | 0.92       | 0.86       | [Baidu] (password:odai) 链接: https://pan.baidu.com/s/1BkswAWemgA9PJBGiEKBLvQ?pwd=odai [Google Drive] https://drive.google.com/drive/folders/1hzavzCY5PcV3O_qKH2kd-EN5KCBKuyDK?usp=sharing |
+| OCM-CF   | 0.92       | 0.86       | [Baidu] (password:odai) https://pan.baidu.com/s/1BkswAWemgA9PJBGiEKBLvQ?pwd=odai [Google Drive] https://drive.google.com/drive/folders/1hzavzCY5PcV3O_qKH2kd-EN5KCBKuyDK?usp=sharing |
 
 ## Citation
 
