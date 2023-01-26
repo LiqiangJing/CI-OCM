@@ -13,11 +13,13 @@ This repo holds codes of the paper: Debiased Outfit Compatibility Modeling with 
 If you find this repo useful in your research works, please consider citing:
 
 ```
-@InProceedings{jing_2022_MCFR,
-    author    = {Jing, Liqiang and Tian, Minghui and Chen, Xiaolin and Sun, Teng and Guan, Weili and Song, Xuemeng},
-    title     = {Debiased Outfit Compatibility Modeling with Counterfactual Inference},
-    booktitle = {Multimedia Computing towards Fashion Recommendation},
-    year      = {2022},
+@inproceedings{10.1145/3552468.3555363,
+author = {Jing, Liqiang and Tian, Minghui and Chen, Xiaolin and Sun, Teng and Guan, Weili and Song, Xuemeng},
+title = {CI-OCM: Counterfactural Inference towards Unbiased Outfit Compatibility Modeling},
+year = {2022},
+publisher = {Association for Computing Machinery},
+booktitle = {Proceedings of the 1st Workshop on Multimedia Computing towards Fashion Recommendation},
+pages = {31–38}
 }
 ```
 
